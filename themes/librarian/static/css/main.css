@@ -1,0 +1,127 @@
+article {
+  font: 17px/25px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #333;
+  padding-bottom: 5em;
+}
+@media (min-width: 1024px) {
+    .container{
+        max-width: 760px;
+    }
+}
+@media (max-width: 1024px) {
+    .container{
+        max-width: 100%;
+    }
+}
+.navbar {
+    min-height: 30px;
+}
+.navbar-custom {
+    background-color:#fff;
+    color:#333;
+    border-radius:0;
+}
+
+.navbar ul > li > a, .navbar-custom .navbar-brand {
+    font-size: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    color:#333;
+}
+.navbar-custom .navbar-nav > li > a {
+    color:#333;
+}
+.navbar-custom .navbar-nav > .active > a, .navbar-nav > .active > a:hover, .navbar-nav > .active > a:focus {
+    color: #333;
+    background-color: #fefefe;
+}
+
+.navbar-text {
+  margin: 0;
+}
+
+.navbar-text li a {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+
+.navbar-icons li {
+  width: 30px;
+  background: #fff;
+}
+.navbar-icons li a, .navbar-icons li a:hover {
+  background: #fff;
+  padding-right: 0;
+  padding-left: 0;
+}
+div.navigation {
+}
+.navbar-pagination li {
+  
+}
+ul.pager li a, .navbar-pagination li a:hover {
+  background: #fff;
+  border: 0;
+  padding: 0;
+  margin: 0;
+  border-radius: 0; 
+}
+
+.admin {
+  background: #f9f9f9;
+  padding-top: 5px;
+  width: 10px;
+  height: 10px;
+}
+a.admin-link {
+  display:none;
+}
+.admin:hover a.admin-link {
+  display:inherit;
+  color: #000;
+  text-decoration: none;
+}
+
+div.article-info {
+    padding-bottom: 1em;
+}
+article header .article-info p {
+  color: #919191;
+  font-size: 15px;
+  line-height: 17px;
+  margin-bottom: 0px;
+}
+
+h1 {font-size: 30px;}
+h2 {font-size: 24px;}
+h3 {font-size: 20px;}
+h4 {font-size: 18px;}
+
+h1 a, h2 a, h3 a, h4 a { color: #000; }
+h1.entry-title a { text-align: center; }
+
+div.pagination {
+    margin: 0 auto;
+    padding: 1em 1em;
+    height: 100%;
+    margin-bottom: 1.5em;
+    margin-left: -1em;
+    margin-right: -1em;
+    font-size: 1.1em;
+    display: block;
+}
+
+div.pagination span.old {
+    float: left;
+}
+div.pagination span.new {
+    float: right;
+}
+div.toc {
+    width: 40%;
+    float: right;
+    padding-top: 2em;
+}

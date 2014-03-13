@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+{% block content_title %}{% endblock %}
+{% block content %}
+<div class="container">
+  {% for article in articles_page.object_list %}
+    {% include "article_content_article.html" %}
+  {% endfor %}
+</div>
+{% endblock content %}

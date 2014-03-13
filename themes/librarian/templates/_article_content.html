@@ -1,0 +1,39 @@
+{% if article.prev_article %}
+  <div class="pagination">
+    <span class="new">
+        <a href="{{ SITEURL }}/{{ article.prev_article.url}}">
+          {{ article.prev_article.title }} →
+        </a>
+    </span>
+{% endif %}
+{% if article.next_article %}
+    <span class="old">
+      <a href="{{ SITEURL }}/{{ article.next_article.url}}">
+        ← {{ article.next_article.title }}
+      </a>
+    </span>
+  </div>
+{% endif %}
+<article>
+  <header>
+    <h1 class="entry-title">
+      <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Ссылка на запись {{ article.title|striptags }}">{{ article.title }}</a></h1>
+      {% include "article_infos.html" %}
+  </header>
+  {% if article.toc %}
+      {{ article.toc }}
+  {% endif %}
+  {{ article.content }}
+  <center>
+  <script type="text/javascript">(function() {
+  if (window.pluso)if (typeof window.pluso.start == "function") return;
+  if (window.ifpluso==undefined) { window.ifpluso = 1;
+    var d = document, s = d.createElement('script'), g = 'getElementsByTagName';
+    s.type = 'text/javascript'; s.charset='UTF-8'; s.async = true;
+    s.src = ('https:' == window.location.protocol ? 'https' : 'http')  + '://share.pluso.ru/pluso-like.js';
+    var h=d[g]('body')[0];
+    h.appendChild(s);
+  }})();</script>
+<div class="pluso" data-background="transparent" data-options="medium,square,line,horizontal,nocounter,theme=01" data-services="vkontakte,facebook,twitter,google,surfingbird,juick,livejournal" data-url="{{ SITEURL }}/{{ article.url }}" data-title="{{ article.title }}" data-user="584929635"></div>
+  </center>
+</article>

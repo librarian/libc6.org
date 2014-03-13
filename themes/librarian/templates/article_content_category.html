@@ -1,0 +1,13 @@
+<div class="pagination">
+  {% if articles_page.has_previous() %}
+    <span class="old">
+        <a href="{{ SITEURL }}/{{ articles_previous_page.url }}">← Следующая статья</a>
+    </span>
+  {% endif %}
+  {% if articles_page.has_next() %}
+    <span class="new">
+        <a href="{{ SITEURL }}/{{ articles_next_page.url }}">Предыдущая статья →</a>
+    </span>
+  {% endif %}
+</div>
+{% include "article_content_content.html" %}

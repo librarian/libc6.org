@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="{{ DEFAULT_LANG }}">
+<head>
+  <meta charset="utf-8" />
+  <title>{{ SITENAME }} {% block title %}{% endblock %}</title>
+  <link rel="shortcut icon" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/img/favicon.ico"/>
+  <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css" rel="stylesheet" />
+  <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.no-icons.min.css" rel="stylesheet" />
+  <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/{{ CSS_FILE }}" />
+  <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/fotorama.css" />
+  {% if FEED_ALL_ATOM %}
+  <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Atom Feed" />
+  {% endif %}
+  {% if FEED_ALL_RSS %}
+  <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} RSS Feed" />
+  {% endif %}
+
+  <!--[if IE]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+</head>
+
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+  <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+  <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/fotorama.js"></script>
+  <script>
+    $(function() {
+      $('.gallery').fotorama({
+          width: "100%",
+          height: "400",
+          nav: "thumbs",
+          background: "#DDDDDD",
+          navBackground: "#DDDDDD",
+          preload: "1",
+          fullscreenIcon: 1,
+          hash: 0,
+          caption: "none",
+          transition: "slide",
+      });
+    });
+  </script>
+<body>
+<div class="navbar navbar-custom" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="/">librarian@blog:~$</a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav navbar-text">
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Обо мне <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="/about/">Обо мне</a></li>
+                <li><a href="/wishlist/">Хотелки</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Статьи <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="/category/sysadmin/">Системное администрирование</a></li>
+                <li><a href="/category/virtualization/">Виртуализация</a></li>
+                <li><a href="/category/development/">Разработка</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Мои проекты <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="http://cooking-geeks.ru/">Гики на кухне</a></li>
+                <li><a href="http://chtoes.li/">Что если?</a></li>
+                <li><a href="http://bordakov.ru/">Сайт Игоря Бордакова</a></li>
+              </ul>
+            </li>
+            <li><a href="/hosting/">Хостинг для друзей</a></li>
+          </ul>
+          <ul class="nav navbar-nav navbar-right navbar-icons">
+            <li><a href="https://github.com/librarian"><i class='icon-github-alt icon-large'></i></a></li>
+            <li><a href="https://twitter.com/chons"><i class='icon-twitter icon-large' style="color: #00acee;"></i></a></li>
+            <li><a href="https://vk.com/nikita.menkovich"><i class='icon-vk icon-large' style="color: #6d8fb3;"></i></a></li>
+            <li><a href="https://facebook.com/nikita.menkovich"><i class='icon-facebook-sign icon-large' style="color: #4862a3;"></i></a></li>
+            <li><a href="https://plus.google.com/103524414147137860781"><i class='icon-google-plus-sign icon-large' style="color: #dd4b39;"></i></a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+{% block content %}
+
+{% endblock %}
+</body>
+<script type="text/javascript">
+var pkBaseURL = (("https:" == document.location.protocol) ? "https://apps.libc6.org/piwik/" : "http://apps.libc6.org/piwik/");
+document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script type="text/javascript">
+try {
+        var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 1);
+        piwikTracker.trackPageView();
+        piwikTracker.enableLinkTracking();
+} catch( err ) {}
+</script><noscript><p><img src="http://apps.libc6.org/piwik/piwik.php?idsite=1" style="border:0" alt="" /></p></noscript>
+</html>
