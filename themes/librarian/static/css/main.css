@@ -2,6 +2,7 @@ article {
   font: 17px/25px 'Helvetica Neue', Helvetica, Arial, sans-serif;
   color: #333;
   padding-bottom: 5em;
+  text-align: justify;
 }
 @media (min-width: 1024px) {
     .container{
