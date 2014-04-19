@@ -8,6 +8,7 @@ url: wishlist/
 ## Всякое разное
 
 * Лимонное/мандариновое дерево
+* Всякий около Fallout-ный стафф с [магазина](http://store.bethsoft.com/brands/fallout.html) (Vault 101 Hoodie, всякие штуки с Vault Boy-ем (футболки, кружки, игрушки))
 
 ## Манчкин
 
@@ -30,8 +31,6 @@ url: wishlist/
 * Contra
 * Bomberman
 * Battletoads (Battletoads and Double Dragon)
-* Chip & Dale
-* Darkwing Duck
 * Teenage Mutant Ninja Turtles
 
 Крайне желательно также заиметь переходник RCA-VGA
