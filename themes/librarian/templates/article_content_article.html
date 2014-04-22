@@ -2,14 +2,14 @@
 {% if article.prev_article %}
     <span class="new">
         <a href="{{ SITEURL }}/{{ article.prev_article.url}}">
-          {{ article.prev_article.title }} →
+          Предыдущая статья →
         </a>
     </span>
 {% endif %}
 {% if article.next_article %}
     <span class="old">
       <a href="{{ SITEURL }}/{{ article.next_article.url}}">
-        ← {{ article.next_article.title }}
+        ← Следующая статья
       </a>
     </span>
 {% endif %}
