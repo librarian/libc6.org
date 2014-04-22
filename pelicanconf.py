@@ -41,7 +41,6 @@ SLUG_SUBSTITUTIONS = [
     ("raznoe", "misc"),
     ("razrabotka", "development"),
     ("virtualizatsiia", "virtualization"),
-#("",""),
 ]
 
 
@@ -75,11 +74,3 @@ STATIC_PATHS = [
     'extras',
 ]
 
-#FILES_TO_COPY = (
-#    ('static/uploads', 'uploads')
-#    ('static/robots.txt','robots.txt')
-#    ('static/yandex_60245d14c5c4a755.txt','yandex_60245d14c5c4a755.txt')
-#    ('static/yandex_6faa0e13dc55cf9f.txt','yandex_6faa0e13dc55cf9f.txt')
-#    )
-# Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
