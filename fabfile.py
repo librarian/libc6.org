@@ -1,3 +1,7 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*- #
+from __future__ import unicode_literals
+
 from fabric.api import *
 import fabric.contrib.project as project
 import os
@@ -35,6 +39,20 @@ def reserve():
     build()
     serve()
 
+def new(title, slug,overwrite="no"):
+    from datetime import datetime 
+    post_date = datetime.now().strftime("%Y-%m-%d")
+
+    out_file = "content/{}.md".format(slug)
+    out_template = "Title: %s\nSlug: %s\nCategory: Разное\nDate: %s\n\n" % (title, slug, post_date)
+    if not os.path.exists(out_file) or overwrite.lower() == "yes":
+        with open(out_file, 'w') as f:
+            f.write(out_template.encode("utf-8"))
+            f.close()
+        local("vim %s"% out_file)
+    else:
+        print("{} already exists. Pass 'overwrite=yes' to destroy it.".
+            format(out_file))
 
 @hosts(production)
 def publish():

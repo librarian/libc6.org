@@ -34,6 +34,7 @@ PLUGINS = ["neighbors", "sitemap", "extract_toc"]
 PATH = 'content'
 OUTPUT_PATH = 'output'
 THEME = 'themes/librarian'
+ARTICLE_EXCLUDES = (('pages',))
 
 SLUG_SUBSTITUTIONS = [
     ("puteshestviia", "travel"),
@@ -59,7 +60,7 @@ SITEMAP = {
     }
 }
 
-MD_EXTENSIONS = (['toc'])
+MD_EXTENSIONS = (['toc', 'extra', 'abbr','footnotes'])
 
 DEFAULT_PAGINATION = 1
 
