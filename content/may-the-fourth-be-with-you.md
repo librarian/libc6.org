@@ -12,11 +12,11 @@ Status: draft
 
 Маршрут выглядел вот так:
 
-<iframe src="http://www.gpsies.com/mapOnly.do?fileId=zkhlvooclztkgbzs" width="600" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+<iframe src="//www.gpsies.com/mapOnly.do?fileId=zkhlvooclztkgbzs" width="600" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
 
 Фактически маршрут выглядел так:
 
-<iframe src="http://www.gpsies.com/mapOnly.do?fileId=dwiqsmiuwpiqnago" width="600" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+<iframe src="//www.gpsies.com/mapOnly.do?fileId=dwiqsmiuwpiqnago" width="600" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
 
 У меня конечно были сомнения, сможем ли мы такой длинный маршрут вообще пройти, поскольку проехать 60-80 километров в день, а на следующий день отдыхать — мы так делали, а ехать три дня подряд с таким темпом — нет. И если я уже к моменту старта накатал уже немалый километраж (порядка 500км), то жена проехала километров 100 всего, из которых 60 были на открытии велосезона, а остальное мы накатали пока ездили сдавать велосипеды для обслуживания и переборки.
 
@@ -26,7 +26,7 @@ Status: draft
 
 Вот как-то выглядел мой велик, когда забирал снарягу из пункта выдачи:
 
-![](https://img-fotki.yandex.ru/get/5204/231461324.1/0_f7e2a_328bcb9c_L)
+![](//img-fotki.yandex.ru/get/5204/231461324.1/0_f7e2a_328bcb9c_L)
 
 Хорошо, что у меня были стяжки.
 
@@ -38,7 +38,7 @@ Status: draft
 
 Приехав на вокзал мы безошибочно нашли наших напарников по несчастью, действительно, кому придёт в голову в 6 утра ехать на велосипедах с рюкзаками :) Мы все собрались, прошли досмотр и начали разборку велосипедов (лучше бы мы до досмотра разобрали велики). И последние 5 минут прошли в перебежках и попытках перенести велосипеды на погрузку. Тем не менее мы успели, буквально в последние секунды.
 
-![](https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7de8_1f38a8e7_L)
+![](//img-fotki.yandex.ru/get/9324/231461324.0/0_f7de8_1f38a8e7_L)
 
 В 10 утра мы выгрузились из поезда в Угловке (мы специально попросили проводников открыть нам двери, поскольку у нас был 5 вагон и двери там обычно не открываются). Собрали велики и поехали на встречу с нашей московско-омской половинкой группы.
 
@@ -50,41 +50,41 @@ Status: draft
 
 Так мы и ехали до Валдая, где завернули в чудесную кафешку («Бавария» вроде бы) на площади. Это позволило нам с женой немного отогреться и мы смогли всё таки добраться до нашей стоянки на сегодня. К счастью светило солнце и воздух немного прогрелся.
 
-<div class="gallery>
-<a href="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7de9_f3dc48c3_L"><img src="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7de9_f3dc48c3_XXS"></a>
-<a href="https://img-fotki.yandex.ru/get/9094/231461324.0/0_f7dea_cfe0f1c6_L"><img src="https://img-fotki.yandex.ru/get/9094/231461324.0/0_f7dea_cfe0f1c6_XXS"></a>
-<a href="https://img-fotki.yandex.ru/get/9799/231461324.0/0_f7deb_2b5ec2c2_L"><img src="https://img-fotki.yandex.ru/get/9799/231461324.0/0_f7deb_2b5ec2c2_XXS"></a>
-<a href="https://img-fotki.yandex.ru/get/9799/231461324.0/0_f7dec_56a8cf29_L"><img src="https://img-fotki.yandex.ru/get/9799/231461324.0/0_f7dec_56a8cf29_XXS"></a>
+<div class="gallery">
+<a href="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7de9_f3dc48c3_L"><img src="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7de9_f3dc48c3_XXS"></a>
+<a href="//img-fotki.yandex.ru/get/9094/231461324.0/0_f7dea_cfe0f1c6_L"><img src="//img-fotki.yandex.ru/get/9094/231461324.0/0_f7dea_cfe0f1c6_XXS"></a>
+<a href="//img-fotki.yandex.ru/get/9799/231461324.0/0_f7deb_2b5ec2c2_L"><img src="//img-fotki.yandex.ru/get/9799/231461324.0/0_f7deb_2b5ec2c2_XXS"></a>
+<a href="//img-fotki.yandex.ru/get/9799/231461324.0/0_f7dec_56a8cf29_L"><img src="//img-fotki.yandex.ru/get/9799/231461324.0/0_f7dec_56a8cf29_XXS"></a>
 </div>
 
 Вообще, пока мы ехали, мы строили планы (читай «ныли») насчёт того, как мы доедем до Валдая, отдадим общественную тушонку, заночуем, погуляем и поедем домой. Потом решили что доедем до стоянки, а там посмотрим, но уж точно поедем домой. И может даже тоже по Валдаю погуляем. Так и доехали.
 
 Вообще после сытного и вкусного ужина (мне кажется после того велопробега мне любая горячая еда показалась бы вкусной) меня уже почти перестали терзать сомнения насчёт того чтобы слиться. В итоге мы порешили что утром будет понятно, в состоянии мы продолжить или нет.
 
-<div class="gallery>
-<a href="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7ded_b8507467_L"><img src="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7ded_b8507467_XXS"></a>
-<a href="https://img-fotki.yandex.ru/get/9094/231461324.0/0_f7def_4af26c10_L"><img src="https://img-fotki.yandex.ru/get/9094/231461324.0/0_f7def_4af26c10_XXS"></a>
-<a href="https://img-fotki.yandex.ru/get/9094/231461324.0/0_f7df0_9b9ba8c_L"><img src="https://img-fotki.yandex.ru/get/9094/231461324.0/0_f7df0_9b9ba8c_XXS"></a>
-<a href="https://img-fotki.yandex.ru/get/9094/231461324.0/0_f7df1_44a72658_L"><img src="https://img-fotki.yandex.ru/get/9094/231461324.0/0_f7df1_44a72658_XXS"></a>
-<a href="https://img-fotki.yandex.ru/get/9094/231461324.0/0_f7df2_5c9d9f8b_L"><img src="https://img-fotki.yandex.ru/get/9094/231461324.0/0_f7df2_5c9d9f8b_XXS"></a>
-<a href="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7df3_ee11289b_L"><img src="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7df3_ee11289b_XXS"></a>
-<a href="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7df4_195e27f6_L"><img src="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7df4_195e27f6_XXS"></a>
-<a href="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7df5_15ce6e3c_L"><img src="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7df5_15ce6e3c_XXS"></a>
-<a href="https://img-fotki.yandex.ru/get/9094/231461324.0/0_f7df6_9946ac9c_L"><img src="https://img-fotki.yandex.ru/get/9094/231461324.0/0_f7df6_9946ac9c_XXS"></a>
-<a href="https://img-fotki.yandex.ru/get/9799/231461324.0/0_f7df7_397a58e4_L"><img src="https://img-fotki.yandex.ru/get/9799/231461324.0/0_f7df7_397a58e4_XXS"></a>
-<a href="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7df8_b760d1f9_L"><img src="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7df8_b760d1f9_XXS"></a>
-<a href="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7df9_600395b7_L"><img src="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7df9_600395b7_XXS"></a>
-<a href="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7dfa_11e1af33_L"><img src="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7dfa_11e1af33_XXS"></a>
-<a href="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7dfb_a94df6aa_L"><img src="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7dfb_a94df6aa_XXS"></a>
-<a href="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7dfc_fd87e504_L"><img src="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7dfc_fd87e504_XXS"></a>
-<a href="https://img-fotki.yandex.ru/get/9799/231461324.0/0_f7dfd_24817a0_L"><img src="https://img-fotki.yandex.ru/get/9799/231461324.0/0_f7dfd_24817a0_XXS"></a>
-<a href="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7dfe_47b0f268_L"><img src="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7dfe_47b0f268_XXS"></a>
-<a href="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7e00_b570b44c_L"><img src="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7e00_b570b44c_XXS"></a>
-<a href="https://img-fotki.yandex.ru/get/9799/231461324.0/0_f7e01_e4ae3741_L"><img src="https://img-fotki.yandex.ru/get/9799/231461324.0/0_f7e01_e4ae3741_XXS"></a>
-<a href="https://img-fotki.yandex.ru/get/9094/231461324.0/0_f7e02_10bca4b3_L"><img src="https://img-fotki.yandex.ru/get/9094/231461324.0/0_f7e02_10bca4b3_XXS"></a>
-<a href="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7e03_36827aa4_L"><img src="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7e03_36827aa4_XXS"></a>
-<a href="https://img-fotki.yandex.ru/get/9799/231461324.0/0_f7e04_6701532b_L"><img src="https://img-fotki.yandex.ru/get/9799/231461324.0/0_f7e04_6701532b_XXS"></a>
-<a href="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7e05_95f88921_L"><img src="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7e05_95f88921_XXS"></a>
+<div class="gallery">
+<a href="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7ded_b8507467_L"><img src="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7ded_b8507467_XXS"></a>
+<a href="//img-fotki.yandex.ru/get/9094/231461324.0/0_f7def_4af26c10_L"><img src="//img-fotki.yandex.ru/get/9094/231461324.0/0_f7def_4af26c10_XXS"></a>
+<a href="//img-fotki.yandex.ru/get/9094/231461324.0/0_f7df0_9b9ba8c_L"><img src="//img-fotki.yandex.ru/get/9094/231461324.0/0_f7df0_9b9ba8c_XXS"></a>
+<a href="//img-fotki.yandex.ru/get/9094/231461324.0/0_f7df1_44a72658_L"><img src="//img-fotki.yandex.ru/get/9094/231461324.0/0_f7df1_44a72658_XXS"></a>
+<a href="//img-fotki.yandex.ru/get/9094/231461324.0/0_f7df2_5c9d9f8b_L"><img src="//img-fotki.yandex.ru/get/9094/231461324.0/0_f7df2_5c9d9f8b_XXS"></a>
+<a href="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7df3_ee11289b_L"><img src="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7df3_ee11289b_XXS"></a>
+<a href="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7df4_195e27f6_L"><img src="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7df4_195e27f6_XXS"></a>
+<a href="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7df5_15ce6e3c_L"><img src="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7df5_15ce6e3c_XXS"></a>
+<a href="//img-fotki.yandex.ru/get/9094/231461324.0/0_f7df6_9946ac9c_L"><img src="//img-fotki.yandex.ru/get/9094/231461324.0/0_f7df6_9946ac9c_XXS"></a>
+<a href="//img-fotki.yandex.ru/get/9799/231461324.0/0_f7df7_397a58e4_L"><img src="//img-fotki.yandex.ru/get/9799/231461324.0/0_f7df7_397a58e4_XXS"></a>
+<a href="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7df8_b760d1f9_L"><img src="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7df8_b760d1f9_XXS"></a>
+<a href="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7df9_600395b7_L"><img src="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7df9_600395b7_XXS"></a>
+<a href="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7dfa_11e1af33_L"><img src="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7dfa_11e1af33_XXS"></a>
+<a href="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7dfb_a94df6aa_L"><img src="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7dfb_a94df6aa_XXS"></a>
+<a href="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7dfc_fd87e504_L"><img src="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7dfc_fd87e504_XXS"></a>
+<a href="//img-fotki.yandex.ru/get/9799/231461324.0/0_f7dfd_24817a0_L"><img src="//img-fotki.yandex.ru/get/9799/231461324.0/0_f7dfd_24817a0_XXS"></a>
+<a href="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7dfe_47b0f268_L"><img src="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7dfe_47b0f268_XXS"></a>
+<a href="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7e00_b570b44c_L"><img src="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7e00_b570b44c_XXS"></a>
+<a href="//img-fotki.yandex.ru/get/9799/231461324.0/0_f7e01_e4ae3741_L"><img src="//img-fotki.yandex.ru/get/9799/231461324.0/0_f7e01_e4ae3741_XXS"></a>
+<a href="//img-fotki.yandex.ru/get/9094/231461324.0/0_f7e02_10bca4b3_L"><img src="//img-fotki.yandex.ru/get/9094/231461324.0/0_f7e02_10bca4b3_XXS"></a>
+<a href="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7e03_36827aa4_L"><img src="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7e03_36827aa4_XXS"></a>
+<a href="//img-fotki.yandex.ru/get/9799/231461324.0/0_f7e04_6701532b_L"><img src="//img-fotki.yandex.ru/get/9799/231461324.0/0_f7e04_6701532b_XXS"></a>
+<a href="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7e05_95f88921_L"><img src="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7e05_95f88921_XXS"></a>
 </div>
 
 ## День второй
@@ -117,30 +117,30 @@ Status: draft
 
 Мы чудесно поужинали, переночевали (было тепло) и поехали по грейдеру дальше. На этот раз мы умудрились ехать совсем первыми.
 
-<div class="gallery>
-<a href="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7e06_f966101b_L"><img src="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7e06_f966101b_XXS"></a>
-<a href="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7e07_bb84b71e_L"><img src="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7e07_bb84b71e_XXS"></a>
-<a href="https://img-fotki.yandex.ru/get/9799/231461324.0/0_f7e08_3d96f7c5_L"><img src="https://img-fotki.yandex.ru/get/9799/231461324.0/0_f7e08_3d96f7c5_XXS"></a>
-<a href="https://img-fotki.yandex.ru/get/9799/231461324.0/0_f7e09_b6c1b152_L"><img src="https://img-fotki.yandex.ru/get/9799/231461324.0/0_f7e09_b6c1b152_XXS"></a>
-<a href="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7e0a_795d5e94_L"><img src="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7e0a_795d5e94_XXS"></a>
-<a href="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7e0b_22e84c0d_L"><img src="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7e0b_22e84c0d_XXS"></a>
-<a href="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7e0c_3129b695_L"><img src="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7e0c_3129b695_XXS"></a>
-<a href="https://img-fotki.yandex.ru/get/9799/231461324.0/0_f7e0d_1e01cfe8_L"><img src="https://img-fotki.yandex.ru/get/9799/231461324.0/0_f7e0d_1e01cfe8_XXS"></a>
-<a href="https://img-fotki.yandex.ru/get/9799/231461324.0/0_f7e0e_3cde72ea_L"><img src="https://img-fotki.yandex.ru/get/9799/231461324.0/0_f7e0e_3cde72ea_XXS"></a>
-<a href="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7e0f_aaa78706_L"><img src="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7e0f_aaa78706_XXS"></a>
-<a href="https://img-fotki.yandex.ru/get/9799/231461324.0/0_f7e10_7a008fb5_L"><img src="https://img-fotki.yandex.ru/get/9799/231461324.0/0_f7e10_7a008fb5_XXS"></a>
-<a href="https://img-fotki.yandex.ru/get/5211/231461324.0/0_f7e11_f835f955_L"><img src="https://img-fotki.yandex.ru/get/5211/231461324.0/0_f7e11_f835f955_XXS"></a>
-<a href="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7e12_f10f3b9c_L"><img src="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7e12_f10f3b9c_XXS"></a>
-<a href="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7e13_86ca6a6b_L"><img src="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7e13_86ca6a6b_XXS"></a>
-<a href="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7e14_461ea719_L"><img src="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7e14_461ea719_XXS"></a>
-<a href="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7e16_a7ceb35b_L"><img src="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7e16_a7ceb35b_XXS"></a>
-<a href="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7e17_7d5246e3_L"><img src="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7e17_7d5246e3_XXS"></a>
-<a href="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7e18_b5ccef6c_L"><img src="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7e18_b5ccef6c_XXS"></a>
-<a href="https://img-fotki.yandex.ru/get/9799/231461324.0/0_f7e1a_6dea7d60_L"><img src="https://img-fotki.yandex.ru/get/9799/231461324.0/0_f7e1a_6dea7d60_XXS"></a>
-<a href="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7e1b_3bcfd4c6_L"><img src="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7e1b_3bcfd4c6_XXS"></a>
-<a href="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7e1c_fb58e76e_L"><img src="https://img-fotki.yandex.ru/get/9324/231461324.0/0_f7e1c_fb58e76e_XXS"></a>
-<a href="https://img-fotki.yandex.ru/get/9805/231461324.1/0_f7e1d_19852974_L"><img src="https://img-fotki.yandex.ru/get/9805/231461324.1/0_f7e1d_19852974_XXS"></a>
-<a href="https://img-fotki.yandex.ru/get/9324/231461324.1/0_f7e21_d66b7fd3_L"><img src="https://img-fotki.yandex.ru/get/9324/231461324.1/0_f7e21_d66b7fd3_XXS"></a>
+<div class="gallery">
+<a href="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7e06_f966101b_L"><img src="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7e06_f966101b_XXS"></a>
+<a href="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7e07_bb84b71e_L"><img src="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7e07_bb84b71e_XXS"></a>
+<a href="//img-fotki.yandex.ru/get/9799/231461324.0/0_f7e08_3d96f7c5_L"><img src="//img-fotki.yandex.ru/get/9799/231461324.0/0_f7e08_3d96f7c5_XXS"></a>
+<a href="//img-fotki.yandex.ru/get/9799/231461324.0/0_f7e09_b6c1b152_L"><img src="//img-fotki.yandex.ru/get/9799/231461324.0/0_f7e09_b6c1b152_XXS"></a>
+<a href="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7e0a_795d5e94_L"><img src="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7e0a_795d5e94_XXS"></a>
+<a href="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7e0b_22e84c0d_L"><img src="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7e0b_22e84c0d_XXS"></a>
+<a href="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7e0c_3129b695_L"><img src="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7e0c_3129b695_XXS"></a>
+<a href="//img-fotki.yandex.ru/get/9799/231461324.0/0_f7e0d_1e01cfe8_L"><img src="//img-fotki.yandex.ru/get/9799/231461324.0/0_f7e0d_1e01cfe8_XXS"></a>
+<a href="//img-fotki.yandex.ru/get/9799/231461324.0/0_f7e0e_3cde72ea_L"><img src="//img-fotki.yandex.ru/get/9799/231461324.0/0_f7e0e_3cde72ea_XXS"></a>
+<a href="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7e0f_aaa78706_L"><img src="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7e0f_aaa78706_XXS"></a>
+<a href="//img-fotki.yandex.ru/get/9799/231461324.0/0_f7e10_7a008fb5_L"><img src="//img-fotki.yandex.ru/get/9799/231461324.0/0_f7e10_7a008fb5_XXS"></a>
+<a href="//img-fotki.yandex.ru/get/5211/231461324.0/0_f7e11_f835f955_L"><img src="//img-fotki.yandex.ru/get/5211/231461324.0/0_f7e11_f835f955_XXS"></a>
+<a href="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7e12_f10f3b9c_L"><img src="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7e12_f10f3b9c_XXS"></a>
+<a href="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7e13_86ca6a6b_L"><img src="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7e13_86ca6a6b_XXS"></a>
+<a href="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7e14_461ea719_L"><img src="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7e14_461ea719_XXS"></a>
+<a href="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7e16_a7ceb35b_L"><img src="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7e16_a7ceb35b_XXS"></a>
+<a href="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7e17_7d5246e3_L"><img src="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7e17_7d5246e3_XXS"></a>
+<a href="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7e18_b5ccef6c_L"><img src="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7e18_b5ccef6c_XXS"></a>
+<a href="//img-fotki.yandex.ru/get/9799/231461324.0/0_f7e1a_6dea7d60_L"><img src="//img-fotki.yandex.ru/get/9799/231461324.0/0_f7e1a_6dea7d60_XXS"></a>
+<a href="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7e1b_3bcfd4c6_L"><img src="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7e1b_3bcfd4c6_XXS"></a>
+<a href="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7e1c_fb58e76e_L"><img src="//img-fotki.yandex.ru/get/9324/231461324.0/0_f7e1c_fb58e76e_XXS"></a>
+<a href="//img-fotki.yandex.ru/get/9805/231461324.1/0_f7e1d_19852974_L"><img src="//img-fotki.yandex.ru/get/9805/231461324.1/0_f7e1d_19852974_XXS"></a>
+<a href="//img-fotki.yandex.ru/get/9324/231461324.1/0_f7e21_d66b7fd3_L"><img src="//img-fotki.yandex.ru/get/9324/231461324.1/0_f7e21_d66b7fd3_XXS"></a>
 </div>
 
 Дальше у нас не было особо сил фотографировать, так что без фоток.
@@ -188,4 +188,3 @@ Status: draft
 По приезду в Питер я заказал такси, чтобы не маяться со сборкой великов. И я скажу вам, что это был САМЫЙ плохой момент в поездке. Нас встретила таксистка женщина, и я, сев на переднее сидение мгнованно почуствовал себя в маршрутке едущей на гору Ай-Петри. Лихие манёвры, яростное бибикание и прочее всяческое нарушение правил дорожного движения. У меня буквально вся жизнь перед глазами пролетела. Уже лучше бы мы под дождиком на великах докатили.
 
 ## Заключение
-
