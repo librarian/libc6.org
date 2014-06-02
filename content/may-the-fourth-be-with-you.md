@@ -185,6 +185,10 @@ Status: draft
 
 Ещё спасибо Лёне за "шот" магния, который спас меня от судорог в первую ночь и за изотоник, которым он нас снабжал в остальные дни :)
 
+## Видео
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/ls9N4PlSGeE" frameborder="0" allowfullscreen></iframe>
+
 ## Фотки
 
 <div class="gallery">
