@@ -2,7 +2,6 @@ Title: Велопоход на Первомай 2014
 Slug: may-the-fourth-be-with-you
 Category: Путешествия
 Date: 2014-05-07 00:00
-Status: draft
 
 ## Введение
 
