@@ -10,11 +10,11 @@ Date: 2014-05-07 00:00
 До этого я в походах не был лет 15, если не больше, так что было на самом деле было немного страшновато. Я также позвал коллегу с работы, и как-то так в итоге вышло что мы поехали на Селигер :)
 
 
-Запланированный маршрут выглядел вот так:
+Запланированный маршрут выглядел вот так ([ссылка](//www.gpsies.com/mapOnly.do?fileId=zkhlvooclztkgbzs), если не отображается):
 
 <iframe src="//www.gpsies.com/mapOnly.do?fileId=zkhlvooclztkgbzs" width="600" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
 
-А фактически мы проехали так:
+А фактически мы проехали так ([ссылка](//www.gpsies.com/mapOnly.do?fileId=dwiqsmiuwpiqnago), если не отображается):
 
 <iframe src="//www.gpsies.com/mapOnly.do?fileId=dwiqsmiuwpiqnago" width="600" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
 
