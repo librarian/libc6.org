@@ -10,7 +10,6 @@ url: wishlist/
 * Лимонное/мандариновое дерево
 * Всякий около Fallout-ный стафф с [магазина](http://store.bethsoft.com/brands/fallout.html) (Vault 101 Hoodie, всякие штуки с Vault Boy-ем (футболки, кружки, игрушки))
 * Собрание Фейнмановских лекций по физике
-* Экшн камера Kodak Pixpro SP1
 
 ## Манчкин
 
