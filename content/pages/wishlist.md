@@ -7,6 +7,11 @@ url: wishlist/
 
 ## Всякое разное
 
+* Хорошая сумка для походной аптечки (гермомешок, внутри несессер с трёмя секциями, что то вроде Deuter First Aid Kit Dry M)
+* Велоперчатки Pearl iZUMi Mens ELITE Gel-Vent размер M
+* Трекинговый рюкзак Deuter Aircontact PRO 70+15
+* Самонадувающийся коврик Thermarest PROLITE REGULAR 183х51
+* Велошлем Author Skiff 58-62 см
 * Лимонное/мандариновое дерево
 * Всякий около Fallout-ный стафф с [магазина](http://store.bethsoft.com/brands/fallout.html) (Vault 101 Hoodie, всякие штуки с Vault Boy-ем (футболки, кружки, игрушки))
 
