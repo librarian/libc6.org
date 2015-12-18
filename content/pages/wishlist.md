@@ -8,6 +8,7 @@ url: wishlist/
 ## Всякое разное
 
 * Хорошая сумка для походной аптечки (гермомешок, внутри несессер с трёмя секциями, что то вроде Deuter First Aid Kit Dry M)
+* Торцевая разделочная доска (например [доска от mtmwood](http://mtmwood.com/serial.php))
 * Велоперчатки Pearl iZUMi Mens ELITE Gel-Vent размер M
 * Трекинговый рюкзак Deuter Aircontact PRO 70+15
 * Самонадувающийся коврик Thermarest PROLITE REGULAR 183х51
