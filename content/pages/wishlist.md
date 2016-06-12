@@ -9,7 +9,7 @@ url: wishlist/
 
 * Торцевая разделочная доска (например [доска от mtmwood](http://mtmwood.com/serial.php))
 * Трекинговый рюкзак Deuter Aircontact PRO 70+15 и больше.
-* Самонадувающийся коврик Thermarest PROLITE REGULAR 183х51
+* Самонадувающийся коврик Thermarest PROLITE REGULAR 183х51 или аналоги.
 * Лимонное/мандариновое дерево
 * Всякий около Fallout-ный стафф с [магазина](http://store.bethsoft.com/brands/fallout.html) (Vault 101 Hoodie, всякие штуки с Vault Boy-ем (футболки, кружки, игрушки))
 
