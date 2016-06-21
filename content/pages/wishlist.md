@@ -11,6 +11,7 @@ url: wishlist/
 * Трекинговый рюкзак Deuter Aircontact PRO 70+15 и больше.
 * Самонадувающийся коврик Thermarest PROLITE REGULAR 183х51 или аналоги.
 * Лимонное/мандариновое дерево
+* Кошелёк [Coin Fold](http://bellroy.com/wallets/coin-fold-wallet?java) или [Hide & Seek](http://bellroy.com/wallets/hide-and-seek-wallet?java)
 * Всякий около Fallout-ный стафф с [магазина](http://store.bethsoft.com/brands/fallout.html) (Vault 101 Hoodie, всякие штуки с Vault Boy-ем (футболки, кружки, игрушки))
 
 ## Книги
