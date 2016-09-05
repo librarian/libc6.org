@@ -8,7 +8,9 @@ url: wishlist/
 ## Всякое разное
 
 * Торцевая разделочная доска (например [доска от mtmwood](http://mtmwood.com/serial.php))
-* Трекинговый рюкзак Deuter Aircontact PRO 70+15 и больше.
+* Рюкзак Deuter Aircontact PRO 70+15 или [Novatour Тибет 100 v2](http://www.novatour.ru/backpack-expeditional/Ryukzak-Tibet-100-v-2?c=1227)
+* Велорюкзак [ПИК-99 65М](http://pk-99.ru/im-velovitrina/product/trek-65)
+* Палатка [Novatour Памир 3 v2](http://www.novatour.ru/extreme-tents/Palatka-Pamir-3-M?c=1305)
 * Кошелёк [Coin Fold](http://bellroy.com/wallets/coin-fold-wallet?java)
 
 ## Книги
