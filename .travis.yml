@@ -1,6 +1,6 @@
 language: python
 addons:
-    ssh_known_hosts: libc6.org
+  ssh_known_hosts: libc6.org
 python:
 - '2.7'
 install:
@@ -10,7 +10,7 @@ before_install:
 - openssl aes-256-cbc -K $encrypted_7ec4d920bbec_key -iv $encrypted_7ec4d920bbec_iv
   -in deploy_key.enc -out deploy_key -d
 after_success:
- - eval "$(ssh-agent -s)"
- - chmod 600 $TRAVIS_BUILD_DIR/deploy_rsa
- - ssh-add $TRAVIS_BUILD_DIR/deploy_rsa
- - fab publish
+- eval "$(ssh-agent -s)"
+- chmod 600 $TRAVIS_BUILD_DIR/deploy_rsa
+- ssh-add $TRAVIS_BUILD_DIR/deploy_rsa
+- fab publish
