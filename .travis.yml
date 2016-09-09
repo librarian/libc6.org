@@ -13,4 +13,4 @@ after_success:
 - eval "$(ssh-agent -s)"
 - chmod 600 $TRAVIS_BUILD_DIR/deploy_key
 - ssh-add $TRAVIS_BUILD_DIR/deploy_key
-- rsync --delete --exclude ".DS_Store" -pthrvz  --rsh="ssh -i $TRAVIS_BUILD_DIR/deploy_rsa -p 22  " output/ www-data@libc6.org:/var/www/libc6.org/public
+- fab publish
