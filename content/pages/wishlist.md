@@ -12,6 +12,9 @@ url: wishlist/
 * Велорюкзак [ПИК-99 65М](http://pk-99.ru/im-velovitrina/product/trek-65)
 * Палатка [Novatour Памир 3 v2](http://www.novatour.ru/extreme-tents/Palatka-Pamir-3-M?c=1305)
 * Кошелёк [Coin Fold](http://bellroy.com/wallets/coin-fold-wallet?java)
+* Чугунный казан 8-12л
+* Чугунная блинная сковорода (чем больше диаметр тем лучше)
+* Чугунная сковорода
 
 ## Книги
 
