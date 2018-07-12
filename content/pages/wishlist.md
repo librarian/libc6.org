@@ -7,7 +7,6 @@ url: wishlist/
 
 ## Всякое разное
 
-* Мышка [Logitech G603 Wireless Gaming MouseBlack USB](https://market.yandex.ru/product/1926169003)
 * [Ножик для овощей](https://posudamart.ru/catalog/noji/dlya-ovoshhej-i-fruktov/nozh-dlya-chistki-ovoshhej-i-fruktov-9-sm-f-800/)
 * [Топорик кухонный](https://posudamart.ru/catalog/noji/kuxonne-toporiki/kuxonnj-toporik-16-sm-2882/)
 * [Детектор CO2](https://masterkit.ru/shop/2122569)
