@@ -7,8 +7,8 @@ url: wishlist/
 
 ## Всякое разное
 
-* [Ножик для овощей](https://posudamart.ru/catalog/noji/dlya-ovoshhej-i-fruktov/nozh-dlya-chistki-ovoshhej-i-fruktov-9-sm-f-800/)
-* [Топорик кухонный](https://posudamart.ru/catalog/noji/kuxonne-toporiki/kuxonnj-toporik-16-sm-2882/)
+* [Ножик для овощей](https://www.tojiro.ru/catalog/kukhonnye_nozhi/nozhi_dlya_ovoshchey_i_fruktov/ovoshchnoy_nozh_f_648/)
+* [Топорик кухонный](https://www.tojiro.ru/catalog/kukhonnye_nozhi/nozhi_nakiri/f_310_nozh_ovoshchnoy_tojiro_western_knife_165_mm_stal_vg10_3_sloya_rukoyat_stabilizirovannaya_dreve/)
 * [Детектор CO2](https://masterkit.ru/shop/2122569)
 
 ## Книги
