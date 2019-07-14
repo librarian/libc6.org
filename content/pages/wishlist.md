@@ -8,10 +8,6 @@ url: wishlist/
 ## Всякое разное
 
 * [Ножик для овощей](https://www.tojiro.ru/catalog/kukhonnye_nozhi/nozhi_dlya_ovoshchey_i_fruktov/ovoshchnoy_nozh_f_648/)
-* [Топорик кухонный](https://www.tojiro.ru/catalog/kukhonnye_nozhi/nozhi_nakiri/f_310_nozh_ovoshchnoy_tojiro_western_knife_165_mm_stal_vg10_3_sloya_rukoyat_stabilizirovannaya_dreve/)
-* [Филейный нож](https://www.tojiro.ru/catalog/kukhonnye_nozhi/professionalnye_nozhi/f_806_nozh_dlya_tonkoy_narezki_tojiro_western_knife_270_mm_stal_vg_10_3_sloya_rukoyat_stabiliziro/)
-* [Торцевая разделочная доска](https://mtmwood.com/serial.php?product_id=3192)
-* [Детектор CO2](https://masterkit.ru/shop/2122569)
 * Яндекс.Станция
 
 ## Книги
