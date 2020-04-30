@@ -7,9 +7,6 @@ url: wishlist/
 
 ## Всякое разное
 
-* [Ножик для овощей](https://www.tojiro.ru/catalog/kukhonnye_nozhi/nozhi_dlya_ovoshchey_i_fruktov/ovoshchnoy_nozh_f_648/)
-* [Филейный нож](https://www.tojiro.ru/catalog/kukhonnye_nozhi/professionalnye_nozhi/f_806_nozh_dlya_tonkoy_narezki_tojiro_western_knife_270_mm_stal_vg_10_3_sloya_rukoyat_stabiliziro/)
-* [Кухонный топорик](https://posudamart.ru/catalog/noji/kuxonne-toporiki/kuxonnj_toporik_16_sm-468016/)
 * Яндекс.Станция
 
 ## Книги
