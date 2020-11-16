@@ -8,6 +8,7 @@ url: wishlist/
 ## Всякое разное
 
 * Яндекс.Станция
+* [Титановая ручка-конструктор](https://bigidesign.com/collections/pens/products/ti-ultra-pen)
 
 ## Книги
 
