@@ -9,6 +9,7 @@ url: wishlist/
 
 * Яндекс.Станция
 * [Титановая ручка-конструктор](https://bigidesign.com/collections/pens/products/ti-ultra-pen)
+* [Шинковка Bron Coucke](https://www.amazon.co.uk/dp/B0001BMZ38)
 
 ## Книги
 
