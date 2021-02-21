@@ -10,6 +10,9 @@ url: wishlist/
 * Яндекс.Станция
 * [Титановая ручка-конструктор](https://bigidesign.com/collections/pens/products/ti-ultra-pen)
 * [Шинковка Bron Coucke](https://www.amazon.co.uk/dp/B0001BMZ38)
+* [Retroid 2](https://www.goretroid.com/collections/retro-game-system/products/retroid-pocket-2-handheld-retro-gaming-system?variant=36670989893792)
+* [ANBERNIC RG351P](https://aliexpress.ru/item/1005001986253738.html?spm=a2g0v.12010612.8148356.4.70185986qrI31X)
+* [Odroid Go Super](https://www.hardkernel.com/shop/odroid-go-super-dim-gray/)
 
 ## Инструменты
 * [Дрель-шуруповёрт](https://spb.vseinstrumenti.ru/instrument/shurupoverty/akkumulyatornye_dreli-shurupoverty/udarnye/makita/akkumulyatornaya_udarnaya_drel_makita_dhp481rte/)
