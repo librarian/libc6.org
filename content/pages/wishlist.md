@@ -13,7 +13,7 @@ url: wishlist/
 
 ## Консоли (какую-то одну, в порядке предпочтения)
 
-* [ANBERNIC RG351P](https://aliexpress.ru/item/1005001986253738.html?spm=a2g0v.12010612.8148356.4.70185986qrI31X)
+* [ANBERNIC RG351M](https://aliexpress.ru/item/4000958728253.html?spm=a2g0o.store_home.0.0.7e9540e741tE1R&sku_id=12000018319554913)
 * [Retroid 2](https://www.goretroid.com/collections/retro-game-system/products/retroid-pocket-2-handheld-retro-gaming-system?variant=36670989893792)
 * [Odroid Go Super](https://www.hardkernel.com/shop/odroid-go-super-dim-gray/)
 
