@@ -17,6 +17,10 @@ url: wishlist/
 * [Retroid 2](https://www.goretroid.com/collections/retro-game-system/products/retroid-pocket-2-handheld-retro-gaming-system?variant=36670989893792)
 * [Odroid Go Super](https://www.hardkernel.com/shop/odroid-go-super-dim-gray/)
 
+## Лего
+* [Шаттл](https://www.lego.com/en-us/product/nasa-space-shuttle-discovery-10283)
+* [МКС](https://www.lego.com/en-us/product/international-space-station-21321)
+
 ## Инструменты
 * [Дрель-шуруповёрт](https://spb.vseinstrumenti.ru/instrument/shurupoverty/akkumulyatornye_dreli-shurupoverty/udarnye/makita/akkumulyatornaya_udarnaya_drel_makita_dhp481rte/)
 * [Гайковёрт](https://spb.vseinstrumenti.ru/instrument/gajkoverty/akkumulyatornye/makita/dtw285rfjx/)
