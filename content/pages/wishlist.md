@@ -10,6 +10,7 @@ url: wishlist/
 * [Яндекс.Станция](https://market.yandex.ru/product--umnaia-kolonka-yandex-stantsiia-maks/761839003)
 * [Титановая ручка-конструктор](https://bigidesign.com/collections/pens/products/ti-ultra-pen)
 * [Шинковка Bron Coucke](https://www.amazon.co.uk/dp/B0001BMZ38)
+* [Яблокорезка](https://www.mix-er.ru/collection/yablokochistki/product/yablokorezka-yablokochistka-apple-peeler-na-prisoske)
 
 ## Консоли (какую-то одну, в порядке предпочтения)
 * [ANBERNIC RG351M](https://aliexpress.ru/item/4000958728253.html?spm=a2g0o.store_home.0.0.7e9540e741tE1R&sku_id=12000018319554913)
