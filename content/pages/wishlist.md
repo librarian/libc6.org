@@ -31,7 +31,7 @@ url: wishlist/
 * [Аккумуляторная дисковая пила](https://spb.vseinstrumenti.ru/instrument/akkumulyatornyj/pily/diskovye/makita/akkumulyatornaya-diskovaya-pila-makita-dhs680z/)
 * [Аккумуляторная цепная пила](https://spb.vseinstrumenti.ru/sadovaya-tehnika/elektropily-tsepnye/akkumulyatornye/makita/tsepnaya-duc303z/)
 * [Зарядка для аккумуляторов + аккумуляторы 5А*ч](https://spb.vseinstrumenti.ru/instrument/akkumulyatornyj/akkumulyatory/makita/199591-7-195473/)
-* [Аккумулятор 1.5А*ч](https://spb.vseinstrumenti.ru/instrument/akkumulyatornyj/akkumulyatory/makita/tip-bl1815n18v-196235-0/)
+* [Аккумулятор 1.5А*ч](https://spb.vseinstrumenti.ru/instrument/akkumulyatornyj/akkumulyatory/makita/tip-bl1815n18v-196235-0/) (2 штуки)
 
 ## Книги
 
