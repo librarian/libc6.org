@@ -22,16 +22,19 @@ url: wishlist/
 * [Шаттл](https://www.lego.com/en-us/product/nasa-space-shuttle-discovery-10283)
 * [МКС](https://www.lego.com/en-us/product/international-space-station-21321)
 
-## Инструменты
+## Инструменты (в порядке приоритета)
 * [Дрель-шуруповёрт](https://spb.vseinstrumenti.ru/instrument/shurupoverty/akkumulyatornye_dreli-shurupoverty/udarnye/makita/akkumulyatornaya_udarnaya_drel_makita_dhp481rte/)
-* [Гайковёрт](https://spb.vseinstrumenti.ru/instrument/gajkoverty/akkumulyatornye/makita/dtw285rfjx/)
-* [Фрезер аккумуляторный](https://spb.vseinstrumenti.ru/instrument/akkumulyatornyj/frezery/makita/drt50zjx2/)
-* [Фрезер погружной](https://makita.vseinstrumenti.ru/instrument/frezery/universalnye/rp_1110_c/otzyvy/)
-* [Лобзик](https://spb.vseinstrumenti.ru/instrument/akkumulyatornyj/lobziki/makita/akkumulyatornyj_lobzik_makita_djv180z/)
-* [Аккумуляторная дисковая пила](https://spb.vseinstrumenti.ru/instrument/akkumulyatornyj/pily/diskovye/makita/akkumulyatornaya-diskovaya-pila-makita-dhs680z/)
 * [Аккумуляторная цепная пила](https://spb.vseinstrumenti.ru/sadovaya-tehnika/elektropily-tsepnye/akkumulyatornye/makita/tsepnaya-duc303z/)
 * [Зарядка для аккумуляторов + аккумуляторы 5А*ч](https://spb.vseinstrumenti.ru/instrument/akkumulyatornyj/akkumulyatory/makita/199591-7-195473/)
 * [Аккумулятор 1.5А*ч](https://spb.vseinstrumenti.ru/instrument/akkumulyatornyj/akkumulyatory/makita/tip-bl1815n18v-196235-0/) (2 штуки)
+* [Фрезер аккумуляторный](https://spb.vseinstrumenti.ru/instrument/akkumulyatornyj/frezery/makita/drt50zjx2/)
+* [Тиски](https://spb.vseinstrumenti.ru/stanki/tiski/slesarnye/wilton/masterskaya-ws5-wi63301/)
+* [Лобзик](https://spb.vseinstrumenti.ru/instrument/akkumulyatornyj/lobziki/makita/akkumulyatornyj_lobzik_makita_djv180z/)
+* [Аккумуляторная дисковая пила](https://spb.vseinstrumenti.ru/instrument/akkumulyatornyj/pily/diskovye/makita/akkumulyatornaya-diskovaya-pila-makita-dhs680z/)
+* [Обжимник](https://spb.vseinstrumenti.ru/catalog/ruchnoy-instrument/elektromontazhnyj/ruchnye-press-kleschi/knipex/knipex-obzhimnik-ruchnoy-sht-kn-975110-product/)
+* [Фрезер погружной](https://makita.vseinstrumenti.ru/instrument/frezery/universalnye/rp_1110_c/otzyvy/)
+* [Гайковёрт](https://spb.vseinstrumenti.ru/instrument/gajkoverty/akkumulyatornye/makita/dtw285rfjx/)
+
 
 ## Книги
 
