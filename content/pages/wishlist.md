@@ -4,7 +4,7 @@ Category: Лытдыбр
 Date: 1970-01-01 00:01
 save_as: wishlist/index.html
 url: wishlist/
-
+ 
 ## Всякое разное
 
 * [Яндекс.Станция](https://market.yandex.ru/product--umnaia-kolonka-yandex-stantsiia-maks/761839003)
