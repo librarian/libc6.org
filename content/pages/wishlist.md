@@ -22,7 +22,6 @@ url: wishlist/
 * [МКС](https://www.lego.com/en-us/product/international-space-station-21321)
 
 ## Инструменты (в порядке приоритета)
-* [Дрель-шуруповёрт](https://spb.vseinstrumenti.ru/instrument/shurupoverty/akkumulyatornye_dreli-shurupoverty/udarnye/makita/akkumulyatornaya_udarnaya_drel_makita_dhp481rte/)
 * [Аккумуляторная цепная пила](https://spb.vseinstrumenti.ru/sadovaya-tehnika/elektropily-tsepnye/akkumulyatornye/makita/tsepnaya-duc303z/)
 * [Зарядка для аккумуляторов + аккумуляторы 5А*ч](https://spb.vseinstrumenti.ru/instrument/akkumulyatornyj/akkumulyatory/makita/199591-7-195473/)
 * [Аккумулятор 1.5А*ч](https://spb.vseinstrumenti.ru/instrument/akkumulyatornyj/akkumulyatory/makita/tip-bl1815n18v-196235-0/) (2 штуки)
