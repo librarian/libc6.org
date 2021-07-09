@@ -34,6 +34,7 @@ url: wishlist/
 * [Гайковёрт](https://spb.vseinstrumenti.ru/instrument/gajkoverty/akkumulyatornye/makita/dtw285rfjx/)
 * [УШМ(болгарка)](https://spb.vseinstrumenti.ru/instrument/akkumulyatornyj/shlifmashiny/bolgarki-ushm/makita/ugl-dga511z/)
 * [Набор инструментов с трещёткой](https://spb.vseinstrumenti.ru/ruchnoy-instrument/nabory/avtomobilnyj/gedore/golovok-1-4-1-2-69sht-3108902/)
+* [Разводной ключ](https://spb.vseinstrumenti.ru/ruchnoy_instrument/klyuchi/razvodnye/jonnesway/razvodnoy_klyuch_jonnesway_w27as6/)
 
 
 ## Книги
