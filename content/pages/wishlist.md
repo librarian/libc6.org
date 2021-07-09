@@ -11,7 +11,7 @@ url: wishlist/
 * [Титановая ручка-конструктор](https://bigidesign.com/collections/pens/products/ti-ultra-pen)
 * [Шинковка Bron Coucke](https://www.amazon.co.uk/dp/B0001BMZ38)
 
-## Консоли (какую-то одну, в порядке предпочтения)
+## Консоли (какую-то одну, отсортировано в порядке предпочтения)
 * [ANBERNIC RG351M](https://aliexpress.ru/item/4000958728253.html?spm=a2g0o.store_home.0.0.7e9540e741tE1R&sku_id=12000018319554913)
 * [ANBERNIC RG351V](https://www.aliexpress.com/item/1005002270332111.html?spm=a2g0o.productlist.0.0.2e608d4fkusdMu&algo_pvid=7c3713a6-3286-4748-b905-576450a8360f&algo_expid=7c3713a6-3286-4748-b905-576450a8360f-1&btsid=21135c3f16162680784296430e10a3&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_)
 * [Retroid 2](https://www.goretroid.com/collections/retro-game-system/products/retroid-pocket-2-handheld-retro-gaming-system?variant=36670989893792)
@@ -32,6 +32,8 @@ url: wishlist/
 * [Обжимник](https://spb.vseinstrumenti.ru/catalog/ruchnoy-instrument/elektromontazhnyj/ruchnye-press-kleschi/knipex/knipex-obzhimnik-ruchnoy-sht-kn-975110-product/)
 * [Фрезер погружной](https://makita.vseinstrumenti.ru/instrument/frezery/universalnye/rp_1110_c/otzyvy/)
 * [Гайковёрт](https://spb.vseinstrumenti.ru/instrument/gajkoverty/akkumulyatornye/makita/dtw285rfjx/)
+* [УШМ(болгарка)](https://spb.vseinstrumenti.ru/instrument/akkumulyatornyj/shlifmashiny/bolgarki-ushm/makita/ugl-dga511z/)
+* [Набор инструментов с трещёткой](https://spb.vseinstrumenti.ru/ruchnoy-instrument/nabory/avtomobilnyj/gedore/golovok-1-4-1-2-69sht-3108902/)
 
 
 ## Книги
