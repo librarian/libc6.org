@@ -17,18 +17,16 @@ url: wishlist/
 * [МКС](https://www.lego.com/en-us/product/international-space-station-21321)
 
 ## Инструменты (в порядке приоритета)
-* [УШМ(болгарка)](https://spb.vseinstrumenti.ru/instrument/akkumulyatornyj/shlifmashiny/bolgarki-ushm/makita/ugl-dga511z/)
-* [Фрезер аккумуляторный](https://spb.vseinstrumenti.ru/instrument/akkumulyatornyj/frezery/makita/drt50zjx2/)
 * [Аккумуляторная дисковая пила](https://spb.vseinstrumenti.ru/instrument/akkumulyatornyj/pily/diskovye/makita/akkumulyatornaya-diskovaya-pila-makita-dhs680z/)
+* [Фрезер аккумуляторный](https://spb.vseinstrumenti.ru/instrument/akkumulyatornyj/frezery/makita/drt50zjx2/)
 * [Лобзик](https://spb.vseinstrumenti.ru/instrument/akkumulyatornyj/lobziki/makita/akkumulyatornyj_lobzik_makita_djv180z/)
 * [Зарядка для аккумуляторов + аккумуляторы 5А*ч](https://spb.vseinstrumenti.ru/instrument/akkumulyatornyj/akkumulyatory/makita/199591-7-195473/)
+* [УШМ(болгарка)](https://spb.vseinstrumenti.ru/instrument/akkumulyatornyj/shlifmashiny/bolgarki-ushm/makita/ugl-dga511z/)
+* [Гайковёрт](https://spb.vseinstrumenti.ru/instrument/gajkoverty/akkumulyatornye/makita/dtw285rfjx/)
 
 * [Тиски](https://spb.vseinstrumenti.ru/stanki/tiski/slesarnye/wilton/masterskaya-ws5-wi63301/)
-* [Разводной ключ](https://spb.vseinstrumenti.ru/ruchnoy_instrument/klyuchi/razvodnye/jonnesway/razvodnoy_klyuch_jonnesway_w27as6/)
 * [Обжимник](https://spb.vseinstrumenti.ru/catalog/ruchnoy-instrument/elektromontazhnyj/ruchnye-press-kleschi/knipex/knipex-obzhimnik-ruchnoy-sht-kn-975110-product/)
 
-* [Фрезер погружной](https://makita.vseinstrumenti.ru/instrument/frezery/universalnye/rp_1110_c/otzyvy/)
-* [Гайковёрт](https://spb.vseinstrumenti.ru/instrument/gajkoverty/akkumulyatornye/makita/dtw285rfjx/)
 
 
 ## Книги
