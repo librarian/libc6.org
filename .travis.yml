@@ -3,7 +3,10 @@ addons:
   ssh_known_hosts: libc6.org
 python:
 - '3.5'
-cache: pip
+cache:
+  pip: true
+  timeout: 86400
+timeout: 1000
 install:
 - pip install -r requirements.txt
 script: fab build
