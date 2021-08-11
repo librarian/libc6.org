@@ -2,7 +2,7 @@ language: python
 addons:
   ssh_known_hosts: libc6.org
 python:
-- '3.5'
+- '3.6'
 cache:
   pip: true
   timeout: 86400
