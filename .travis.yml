@@ -3,6 +3,7 @@ addons:
   ssh_known_hosts: libc6.org
 python:
 - '2.7'
+cache: pip
 install:
 - pip install -r requirements.txt
 script: fab build
