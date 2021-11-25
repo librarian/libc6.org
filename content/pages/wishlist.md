@@ -32,4 +32,4 @@ url: wishlist/
 ## Книги
 
 * [Готовка для гиков](http://www.amazon.com/Cooking-Geeks-Science-Great-Hacks/dp/0596805888/)
-* [Modernist Cuisine: The Art and Science of Cooking](http://www.amazon.com/Modernist-Cuisine-The-Science-Cooking/dp/0982761007)
+* [Modernist Cuisine: The Art and Science of Cooking](https://www.amazon.com/Modernist-Cuisine-Science-Stainless-Slipcase-dp-1734386142/dp/1734386142/ref=dp_ob_title_bk)
