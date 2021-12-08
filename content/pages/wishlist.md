@@ -11,6 +11,7 @@ url: wishlist/
 * [Титановая ручка-конструктор](https://bigidesign.com/collections/pens/products/ti-ultra-pen)
 * [Шинковка Bron Coucke](https://www.amazon.co.uk/dp/B0001BMZ38)
 * [Турбопечка с генератором](https://www.ozon.ru/product/pohodnaya-pech-elektrogenerator-biolite-campstove-2-261413759/)
+* [Замодифицированная Sega Dreamcast](https://www.ebay.com/itm/284449215798?hash=item423a7e9536:g:MQ8AAOSwkcNhPgFZ)
  
 ## Лего
 * [Шаттл](https://www.lego.com/en-us/product/nasa-space-shuttle-discovery-10283)
