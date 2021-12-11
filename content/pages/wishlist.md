@@ -13,10 +13,6 @@ url: wishlist/
 * [Турбопечка с генератором](https://www.ozon.ru/product/pohodnaya-pech-elektrogenerator-biolite-campstove-2-261413759/)
 * [Замодифицированная Sega Dreamcast](https://www.ebay.com/itm/284449215798?hash=item423a7e9536:g:MQ8AAOSwkcNhPgFZ)
  
-## Лего
-* [Шаттл](https://www.lego.com/en-us/product/nasa-space-shuttle-discovery-10283)
-* [МКС](https://www.lego.com/en-us/product/international-space-station-21321)
-
 ## Инструменты (в порядке приоритета)
 * [Аккумуляторная дисковая пила](https://spb.vseinstrumenti.ru/instrument/akkumulyatornyj/pily/diskovye/makita/akkumulyatornaya-diskovaya-pila-makita-dhs680z/)
 * [Фрезер аккумуляторный](https://spb.vseinstrumenti.ru/instrument/akkumulyatornyj/frezery/makita/drt50zjx2/)
